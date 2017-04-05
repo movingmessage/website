@@ -1615,7 +1615,7 @@ section * {
   }
 }
 .header-10-sub .background {
-  background-image: url("../img/img-1.jpg");
+  background-image: url("../img/light-22133_1920.jpg");
   opacity: 85;
   filter: alpha(opacity=8500);
   opacity: 0.85;
@@ -1658,8 +1658,14 @@ section * {
   opacity: 0.1;
   filter: alpha(opacity=10);
 }
-.content-23.custom-bg {
-  background-image: url('../img/Italy_001.png');
+.content-23.custom-bg-1 {
+  background-image: url('../img/times-square-1160467_1920.jpg');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.content-23.custom-bg-2 {
+  background-image: url('../img/centro.jpg');
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-attachment: fixed;
